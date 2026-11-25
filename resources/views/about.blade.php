@@ -14,7 +14,7 @@
     <div class="max-w-7xl mx-auto w-full relative z-10 pt-20">
         <div class="max-w-3xl space-y-4">
             <div class="inline-flex items-center gap-1.5 border border-white/20 bg-white/10 backdrop-blur-xs text-white px-3 py-1 rounded-full text-[11px] font-medium shadow-2xs">
-                <span class="w-1.5 h-1.5 rounded-full bg-emerald-400"></span> Kenali Kami Lebih Dekat
+                <span class="w-1.5 h-1.5 rounded-full bg-emerald-400"></span> Kenali Kami Lebih Dekat Test Pipeline
             </div>
             <h1 class="text-4xl md:text-6xl font-semibold tracking-tight leading-tight drop-shadow-xs">
                 Mendigitalkan Sektor <br><span class="text-emerald-400">Agrikultur</span> Nusantara
